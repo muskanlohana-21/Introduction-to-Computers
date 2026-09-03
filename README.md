@@ -11,3 +11,6 @@ Lab Assignment for introduction-to-computers covering hardware concepts, history
 - Mainfraimcomputer
 - Minicomputer
 - Microcomputer
+## History of computers
+The history of computers began with simple calculating devices and gradually developed into modern electronic computers.
+**Today, computers are faster, smaller, and more powerful than before**
