@@ -4,3 +4,10 @@ Lab Assignment for introduction-to-computers covering hardware concepts, history
 ### Definition 
 **Computer** is a electronic devise that process data give us output.
 *Computers are used in many areas in daily life*
+## Types of computers
+*computer *can be classified according to their size and processing power
+### Common Types
+- Supercomputer
+- Mainfraimcomputer
+- Minicomputer
+- Microcomputer
